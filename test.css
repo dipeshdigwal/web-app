@@ -1,0 +1,25 @@
+body{
+    background-color: aqua;
+}
+h1{
+    background-color: black;
+    text-align: center;
+    color: mintcream;
+    height: 5cm;
+}
+table{
+    background-color: blue;
+    border: white;
+    border-radius: 1cm;
+    border-style: solid;
+}
+td{
+    width: 10cm;
+}
+p{
+    background-color: olive;
+    color: yellow;
+}
+button{
+    cursor: crosshair;
+}
